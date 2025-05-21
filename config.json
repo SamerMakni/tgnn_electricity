@@ -1,0 +1,12 @@
+{
+    "email": "",
+    "password": "",
+    "telegram": {
+        "token":""
+    },
+    "openai": {
+	"model_name":"",
+	"max_tokens":0,
+        "temperature":0
+    }
+}

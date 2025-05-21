@@ -1,0 +1,8 @@
+pandas
+plotly
+tqdm
+seaborn
+ipywidgets
+rich
+progress-table
+rich[jupyter]
